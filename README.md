@@ -14,6 +14,6 @@ Excercise for:
 
 
 ## Tools used
-Jupyter Notebook
+Jupyter Notebook 
 
 ## Resources used and referenced:
